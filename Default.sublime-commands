@@ -1,0 +1,7 @@
+[
+    {
+        "caption": "HexBinDecConverter: Show Popup",
+        "command": "hex_bin_dec_converter",
+        "args": {}
+    }
+]
