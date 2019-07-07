@@ -2,7 +2,7 @@
 #   
 # HexBinDecConverter is a number converter for Sublime Text 3
 #
-# https://github.com/rohanrhu/sublime-HexBinDecConverter
+# https://github.com/rohanrhu/HexBinDecConverter
 #
 # Licensed under MIT
 # Copyright (C) 2018, Oğuzhan Eroğlu (https://oguzhaneroglu.com/) <rohanrhu2@gmail.com>
